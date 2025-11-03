@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: Network_Useful_Function
+Version: 0.1.0
+Summary: Graph algorithms, web scraping, text analysis, and celebrity utilities.
+Author-email: Zeyu <ren.zey@northeastern.edu>
+Requires-Dist: networkx
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4

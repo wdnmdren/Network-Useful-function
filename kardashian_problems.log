@@ -1,0 +1,10 @@
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+WARNING:Network_Useful_Function.webscraper:CSV file not found at /mnt/h/NEU/5051/HW/Network_Useful_Function/Network_Useful_Function/../data/kardashian_jenner_urls_jan_1_2024_to_july_31_2024_mediacloud.csv
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): catalog.northeastern.edu:443
+DEBUG:urllib3.connectionpool:https://catalog.northeastern.edu:443 "GET /course-descriptions/eece/ HTTP/1.1" 200 212578
+ERROR:Network_Useful_Function.webscraper:URL list empty

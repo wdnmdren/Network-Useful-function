@@ -1,0 +1,11 @@
+[project]
+name = "Network_Useful_Function"
+version = "0.1.0"
+description = "Graph algorithms, web scraping, text analysis, and celebrity utilities."
+authors = [{name="Zeyu", email="ren.zey@northeastern.edu"}]
+dependencies = ["networkx", "requests", "beautifulsoup4"]
+
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
